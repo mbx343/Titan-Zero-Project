@@ -24,6 +24,32 @@ The Titan-Zero Project offers the world's most sophisticated bypass for competit
 3.  A short **vibration** confirms that the Kernel-Level-Bypass is active.
 4.  The script now uses **Real-Time Weapon Detection** to eliminate recoil for any weapon you pick up (Flatline, Havoc, R-99, Nemesis).
 
+📖 Titan-Zero Elite v4.2: Usage Guide
+🛠 Configuration & Polling Rate
+
+Polling Rate: Ensure your device is set to 1ms (1000Hz) in the Gtuner settings to sync with our Neural-Buffer.
+
+
+Input Method: Use a high-speed USB 3.0 cable to avoid authentication timeouts during the Kernel-Bypass.
+
+🎮 How to use the Script
+
+Load the Apex_Elite_v4.gpc file into Memory Slot 1 of your device.
+
+
+In-Game: Once the match starts, the script is always-on and undetected.
+
+ADS & Fire:
+
+
+Auto-Recoil: The script automatically calculates vertical pull to stabilize your aim.
+
+
+Smart-Reload: Triggering ADS (L2/LT) will sync your magazine status with the server.
++1
+
+
+Evasive Movement: Moving the left stick will trigger the Neural-Teabag-Defense, making you a harder target to hit
 ---
 
 ## 🛠 Troubleshooting
